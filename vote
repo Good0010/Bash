@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 # Vote counter variables
 alice=0
 bob=0
